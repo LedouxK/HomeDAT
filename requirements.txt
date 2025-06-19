@@ -2,3 +2,9 @@ pandas
 pyarrow
 streamlit
 requests
+textblob
+wordcloud
+matplotlib
+folium
+streamlit-folium
+pyspark
